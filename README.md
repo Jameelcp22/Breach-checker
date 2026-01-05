@@ -19,19 +19,19 @@ Ensure you have Git installed on your system:
 ```bash
 git --version
 ```
-2. **Cloning the Repo:**
-Opne your terminal and run the following command
+2. **Clone the Repo:**
+Open your terminal and run the following command
 ```bash
 git clone https://github.com/Jameelcp22/Breach-checker
 ```
-3. **Downloading the requirements:**
+3. **Navigate to the Directory:**
+```bash
+cd Breach-checker
+```
+4. **install requirements:**
 Run the following command on terminal
 ```bash
 pip install -r requirements.txt
-```
-4. **Navigate to the Directory:**
-```bash
-cd Breach-Checker
 ```
 5. **Run the script:**
   ```bash
