@@ -15,26 +15,26 @@ A cybersecurity tool that analyzes password strength using **Entropy Calculation
 ##  Installation
 
 1. **Check for Git:**
-   Ensure you have Git installed on your system:
-   ```bash
-   git --version
-
-2. **Cloning the Repo:**
-  Opne your terminal and run the following command
+Ensure you have Git installed on your system:
 ```bash
-   git clone https://github.com/Jameelcp22/Breach-checker
+git --version
+```
+2. **Cloning the Repo:**
+Opne your terminal and run the following command
+```bash
+git clone https://github.com/Jameelcp22/Breach-checker
 ```
 3. **Downloading the requirements:**
 Run the following command on terminal
 ```bash
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 4. **Navigate to the Directory:**
 ```bash
-  cd Breach-Checker
+cd Breach-Checker
 ```
 5. **Run the script:**
   ```bash
-  python3 main.py
+python3 main.py
 ```
 
